@@ -1,6 +1,6 @@
 ## 👏 Hi, I'm Uka Anowey
 ##  About Me
-I love to play basketball, watch tv shows/movies, and spend time with friends.
+I attend UTSA and my major is Information Systems. I love to play basketball, watch tv shows/movies, and spend time with friends.
 ## ⚒️ Skills
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
